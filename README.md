@@ -15,6 +15,8 @@
 * Topcoder : [sonjaewon](https://www.topcoder.com/members/sonjaewon) [![](https://run.kaist.ac.kr/badges/topcoder/sonjaewon.svg)](https://www.topcoder.com/members/sonjaewon)
 * Codeforces: [sonjaewon](https://codeforces.com/profile/sonjaewon) [![](https://run.kaist.ac.kr/badges/codeforces/sonjaewon.svg)](https://codeforces.com/profile/sonjaewon)
 * Atcoder: [pokmui9909](https://atcoder.jp/users/pokmui9909) [![](https://run.kaist.ac.kr/badges/atcoder/pokmui9909.svg)](https://atcoder.jp/users/pokmui9909)
+* Jungol: [sonjaewon](http://www.jungol.co.kr/theme/jungol/status.php?sca=&sop=and&fcode=&fid=sonjaewon&flang=0)
+* KOISTUDY: [sonjaewon](http://koistudy.net/?mid=view_prob&id=sonjaewon)
 
 ## 💬 Problem Solving Blog
 
