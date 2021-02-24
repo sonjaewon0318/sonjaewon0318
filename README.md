@@ -25,7 +25,7 @@
 
 [![sonjaewon's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonjaewon)](https://solved.ac/profile/sonjaewon) [![CodeForces Profile](http://cf.leed.at?id=sonjaewon)](https://codeforces.com/profile/sonjaewon)
 
-[![sonjaewon's github stats](https://github-readme-stats.vercel.app/api?username=sonjaewon0318&show_icons=true&hide_border=true)](https://github.com/sonjaewon0318) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeHui&layout=compact)](https://github.com/sonjaewon0318)
+[![sonjaewon's github stats](https://github-readme-stats.vercel.app/api?username=sonjaewon0318&show_icons=true&hide_border=true)](https://github.com/sonjaewon0318) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaewon0318&layout=compact)](https://github.com/sonjaewon0318)
 
 ## 📫 Contacts
 
